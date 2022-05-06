@@ -11,7 +11,7 @@ Olympics Data Analysis Project, is done to find out how many sports are played t
 
 ### Motivation
 
-The main motivate to develop this project is to enhance my knowledge and to get internship in Data Science Position.
+The main motivation to develop this project is to enhance my knowledge and to get internship in Data Science Position.
 
 
 ## Roadmap
