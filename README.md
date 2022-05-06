@@ -71,7 +71,7 @@ Data set Link:  https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-hi
 
 ## Demo
 
-   ![App Demo](olympics_Data.gif)
+![App Demo](olympics_Data.gif)
 
 
 ## App Live Demo 
@@ -82,8 +82,8 @@ Heroku App link: https://olympics-data-analy.herokuapp.com/
 - [@dipeshadhikarioffical](https://www.github.com/dipeshadhikarioffical)
 
 
-## 🛠 Skills
-Python, Machine Learning, Statistics, Excel, Data Analysis, SQL, Flask, Streamlit, Git
+## 🛠 Skills Gained
+Python, Statistics, Data Analysis, Plotly, Seaborn, Matplotlib, Streamlit, Heatmap
 
 
 ## 🔗 Follow Me On
