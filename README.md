@@ -1,6 +1,10 @@
 
 # Olympics Data Analysis Project
 
+### App Screenshot
+
+![App Screenshot](olympic_img.png)
+
 ### Summary
 Olympics Data Analysis Project, is done to find out how many sports are played till now from 1896 to 2016. Which country have participated how much time and which country have won which medal in which year and much more information. Basically, The reason for the development of this project is to learn data visualization. Aim of this project is to find out maximum details about olympics, players, award winning countries etc.
 
@@ -63,13 +67,11 @@ To deploy this project in local host follow following steps
 ## Dataset
 Data set Link:  https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
-## Screenshots
 
-![App Screenshot](olympic_img.png)
 
 ## Demo
 
-![App Demo](olympics_Data.gif)
+   ![App Demo](olympics_Data.gif)
 
 
 ## App Live Demo 
