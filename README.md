@@ -58,11 +58,6 @@ To deploy this project in local host follow following steps
 ```bash
   To run project (in terminal type) : streamlit run app.py 
 ```
-## Tech Stack
-
-**Client:** Machine Learning, Python, Statistics, Data Visualization
-
-**Server:** Streamlit, heruko
 
 ## Dataset
 Data set Link:  https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
