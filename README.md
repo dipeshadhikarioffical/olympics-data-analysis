@@ -47,14 +47,9 @@ To deploy this project in local host follow following steps
   Then install packages (in terminal type): pip install streamlit
 ```
 ```bash
-   Install plotly packages (in terminal type): pip install plotly
+   Install requirements.txt it will install all the required packages (in terminal type): pip install -r requirements.txt
 ```
-```bash
-   Install seaborn packages (in terminal type): pip install seaborn
-```
-```bash
-   Install matplotlib packages (in terminal type): pip install matplotlib
-```
+
 ```bash
   To run project (in terminal type) : streamlit run app.py 
 ```
